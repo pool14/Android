@@ -1,0 +1,35 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">Rolex</string>
+    <string name="rolex_de_diamantes">Rolex de diamantes</string>
+    <string name="Rolex">Rolex</string>
+    <string name="rolex1">Esmeralda</string>
+    <string name="rolex">Rolex blanco</string>
+    <string name="rolex3">Oro</string>
+    <string name="rolex4">Oro rosado</string>
+    <string name="rolex5">Multicolor</string>
+    <string name="rolex6">Platino</string>
+
+    <string name="ro">Diamantes con esmeralda</string>
+    <string name="ro1">Diamantes y oro rosa</string>
+    <string name="ro2">Multicolor con diamantes</string>
+    <string name="ro3">Azul cielo</string>
+    <string name="ro4">Diamantes con oro</string>
+    <string name="ro5">Oro rosa y diamantes</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Rolex home</string>
+    <string name="bottom_navigation_profile">Tu perfil rolex</string>
+    <string name="placeholder_search">Search</string>
+</resources>
